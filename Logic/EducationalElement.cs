@@ -9,7 +9,7 @@ namespace Logic
     public class EducationalElement
     {
         private string name;
-        private float coefficient;
+        private float coef;
 
         public string Name
         {
@@ -21,13 +21,13 @@ namespace Logic
             }
         }
 
-        public float Coefficient
+        public float Coef
         {
-            get => coefficient;
+            get => coef;
             set
             {
                 if (value < 0) throw new Exception("Coefficient must be positive");
-                coefficient = value;
+                coef = value;
             }
         }
     }
