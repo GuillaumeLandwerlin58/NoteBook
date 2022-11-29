@@ -5,7 +5,6 @@ namespace TestLogic
         [Fact]
         public void Test1()
         {
-
         }
     }
 }
