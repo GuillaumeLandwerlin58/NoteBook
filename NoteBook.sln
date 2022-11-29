@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoteBook", "NoteBook\NoteBook.csproj", "{65E1BA49-BA0F-4E35-86BE-EE2EDF786846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{6E82FBBA-E600-4927-90D8-886B2ACF3C58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLogic", "TestLogic\TestLogic.csproj", "{0C1FFA47-E203-49B3-8FAF-DC295C28A0E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65E1BA49-BA0F-4E35-86BE-EE2EDF786846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E1BA49-BA0F-4E35-86BE-EE2EDF786846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65E1BA49-BA0F-4E35-86BE-EE2EDF786846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65E1BA49-BA0F-4E35-86BE-EE2EDF786846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E82FBBA-E600-4927-90D8-886B2ACF3C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E82FBBA-E600-4927-90D8-886B2ACF3C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E82FBBA-E600-4927-90D8-886B2ACF3C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E82FBBA-E600-4927-90D8-886B2ACF3C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C1FFA47-E203-49B3-8FAF-DC295C28A0E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C1FFA47-E203-49B3-8FAF-DC295C28A0E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C1FFA47-E203-49B3-8FAF-DC295C28A0E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C1FFA47-E203-49B3-8FAF-DC295C28A0E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12E423FF-3530-4A5F-9E13-DC396B7A979C}
+	EndGlobalSection
+EndGlobal
