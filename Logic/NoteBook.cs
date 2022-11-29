@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Logic
 {
-    public class Class1
+    public class NoteBook
     {
+        private List<Unit> units;
     }
 }

@@ -1,3 +1,5 @@
+using Logic;
+
 namespace TestLogic
 {
     public class UnitTest1
